@@ -37,7 +37,7 @@ The dataset contains CRM and ERP of bicycle retail company including:
 
 # 🖾 Data Architecture 🖾
 
-<img src="docs/data-architecture.svg" width="1109" alt="Data Architecture" />
+<img src="docs/data-architecture.svg" width="1000" alt="Data Architecture" />
 
 
 # ☆ Data Schema ☆
@@ -54,7 +54,7 @@ Type: Star
 
 # ❯❯❯❯ Data Flow ❯❯❯❯
 
-<img src="docs/data-flow-diagram.svg" width="1109" alt="Data Flow Diagram" />
+<img src="docs/data-flow-diagram.svg" width="1000" alt="Data Flow Diagram" />
 
 
 
