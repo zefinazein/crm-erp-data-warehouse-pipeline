@@ -82,7 +82,7 @@ Every push to this repository triggers a GitHub Actions workflow that:
 3. Runs automated quality checks (`tests/quality_checks.sql`): row counts, NULL/duplicate checks on primary keys, referential integrity between fact and dimension tables, value range checks
 
 
-# 🗠 Consumption Layer 🗠
+<!-- # 🗠 Consumption Layer 🗠 -->
 
 
 <!-- Tempel screenshot dashboard Power BI di sini setelah selesai -->
@@ -148,4 +148,4 @@ data-warehouse-project-sql/
 
 # Author
 
-Zefina Zein
+Zafira Zefina Zein
