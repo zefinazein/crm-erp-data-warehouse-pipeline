@@ -37,7 +37,7 @@ The dataset contains CRM and ERP of bicycle retail company including:
 
 # 🖾 Data Architecture 🖾
 
-<img width="1456" height="792" alt="image" src="https://github.com/user-attachments/assets/357fa82f-283d-4af8-8193-15f35c19d975" />
+<img width="1109" alt="Data Architecture" src="https://github.com/zefinazein/crm-erp-data-warehouse-pipeline/docs/data-architecture.svg" />
 
 
 # ☆ Data Schema ☆
@@ -54,7 +54,7 @@ Type: Star
 
 # ❯❯❯❯ Data Flow ❯❯❯❯
 
-<img width="793" height="456" alt="image" src="https://github.com/user-attachments/assets/1a697631-dd84-40e8-a790-87c7f3038a43" />
+<img width="1109" alt="Data Architecture" src="https://github.com/zefinazein/crm-erp-data-warehouse-pipeline/docs/data-flow-diagram.svg" />
 
 
 
